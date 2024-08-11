@@ -5,3 +5,6 @@
 ## 计划
 计划用InternLM大模型 学习这个https://github.com/InternLM/Tutorial 来结合其他工具模型来做rag或者微调收集的文案数据，实现输入文字想要什么感觉的文案，或者输入图片生成合适的文案。
 
+## 架构图
+
+![jgt](jgt.png)
