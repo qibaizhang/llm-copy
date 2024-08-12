@@ -7,4 +7,4 @@
 
 ## 架构图
 
-![jgt](jgt.png)
+![jgt](jgt1.png)
